@@ -1,0 +1,15 @@
+---
+title: "Hello World"
+author: "Mauricio Tedeschi"
+date: "2022-09-18"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a Markdown file.
+
